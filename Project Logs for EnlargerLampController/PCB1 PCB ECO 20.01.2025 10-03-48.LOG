@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=T+ Pin=J101-1
+Removed Pin From Net: NetName=T- Pin=J101-2
+Removed Pin From Net: NetName=Reset Pin=J101-3
+Removed Pin From Net: NetName=Run/Stop Pin=J101-4
+Removed Pin From Net: NetName=T+ Pin=R108-2
+Removed Pin From Net: NetName=T- Pin=R109-2
+Removed Pin From Net: NetName=Reset Pin=R110-2
+Removed Pin From Net: NetName=Run/Stop Pin=R111-2
+Added Pin To Net: NetName=Run/Stop Pin=J101-1
+Added Pin To Net: NetName=Reset Pin=J101-2
+Added Pin To Net: NetName=T- Pin=J101-3
+Added Pin To Net: NetName=T+ Pin=J101-4
+Added Pin To Net: NetName=Run/Stop Pin=R108-2
+Added Pin To Net: NetName=Reset Pin=R109-2
+Added Pin To Net: NetName=T- Pin=R110-2
+Added Pin To Net: NetName=T+ Pin=R111-2
