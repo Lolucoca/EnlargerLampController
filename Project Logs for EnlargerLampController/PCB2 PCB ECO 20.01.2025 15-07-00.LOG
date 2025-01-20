@@ -1,0 +1,20 @@
+Added Component: Designator=R211(RESC1608X06N)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R212(RESC1608X06N)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R213(RESC1608X06N)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R214(RESC1608X06N)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R211-2
+Added Pin To Net: NetName=3V3 Pin=R212-2
+Added Pin To Net: NetName=3V3 Pin=R213-2
+Added Pin To Net: NetName=3V3 Pin=R214-2
+Add Net: Net with name "Reset" already exists
+Add Net: Net with name "Run/Stop" already exists
+Add Net: Net with name "T+" already exists
+Add Net: Net with name "T-" already exists
+Added Member To Class: ClassName=Sheet2 Member=Component R211 Resistor
+Added Member To Class: ClassName=Sheet2 Member=Component R212 Resistor
+Added Member To Class: ClassName=Sheet2 Member=Component R213 Resistor
+Added Member To Class: ClassName=Sheet2 Member=Component R214 Resistor
