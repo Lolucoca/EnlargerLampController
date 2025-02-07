@@ -166,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EGTMLFIS
 
 [Document8]
 DocumentPath=..\..\Libraries\AltiumLib\Schlib1.SchLib
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MDENIERP
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EnlargerLampController\Design Rule Check - PCB1.html

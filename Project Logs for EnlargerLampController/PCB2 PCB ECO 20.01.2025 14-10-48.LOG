@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=G_DIG4 Pin=U201-5
-Added Pin To Net: NetName=G_DIG4 Pin=U201-7
-Added Member To Class: ClassName=Sheet2 Member=Component U201 CH32V003
